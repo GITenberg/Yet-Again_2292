@@ -1,0 +1,37 @@
+_repo: Yet-Again_2292
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beerbohm, Max, Sir
+    alias: Beerbohm, Henry Maximilian, Sir
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '397'
+    url: http://www.gutenberg.org/2009/agents/397
+    wikipedia: http://en.wikipedia.org/wiki/Max_Beerbohm
+description: This 1909 collection of humorous sketches includes The Fire," Seeing
+  People Off," A Club in Ruins," A Study in Dejection," A Pathetic Imposture," The
+  Decline of the Graces," Whistler's Writing," A Morris for May-Day," The House of
+  Commons Manner," The Naming of Streets," On Shakespeare's Birthday," A Home-Coming,"
+  and The Humour of the Public."
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The fire -- Seeing people off -- A memory of a midnight express --
+  Porro unum... -- A club in ruins -- '273' -- A study in dejection -- A pathetic
+  imposture -- The decline of the Graces -- Whistler's writing -- Ichabod -- General
+  elections -- A parallel -- A Morris for May-day -- The House of Commons manner --
+  Sympat -- The naming of streets -- On Shakespear's birthday -- A home-coming --
+  'A ragged regiment' -- The humour of the public -- Dulcedo judiciorum -- Words for
+  pictures.
+title: Yet Again
+url: http://www.gutenberg.org/ebooks/2292
